@@ -1,7 +1,7 @@
 {"rewrites": [
     {
       "source": "/(.*)",
-      "destination": "https://zh.wikipedia.org/wiki/"
+      "destination": "https://zh.wikipedia.org/wiki/$1"
     }
   ]
 }
